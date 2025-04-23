@@ -5,7 +5,8 @@ Afin de développe mes compétences en Réseau & Sécurité j'ai décider de cr�
 ![image](https://github.com/user-attachments/assets/f9b9e933-d1e4-4680-976a-bcab38dd2a64)
 
 
-  Tout les liens neccessaire à ce projets 
+  Tout les liens neccessaire à ce projets
+- VMwareWorkStation : https://www.vmware.com/go/downloadplayer
 - EVE-NG : https://www.eve-ng.net/index.php/download/#DL-COMM
 - Windows Server 2022 (free 180 jours) : https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
 - Windows 10 : https://www.microsoft.com/en-us/software-download/windows10
