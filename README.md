@@ -12,7 +12,7 @@ L’objectif était ensuite de me connecter au PC via Remote Desktop (RDP).
 
 Cependant, RDP n’est disponible que sur Windows 11 Pro, alors que le PC tournait sous Windows 11 Famille.
 
-J’ai donc acheté une clé d’activation Windows 11 Pro via ce lien.
+J’ai donc acheté une clé d’activation Windows 11 Pro via ce lien : https://fr.shopping.rakuten.com/offer/buy/7318179737/windows-11-pro-cle-d-activation-livraison-email-2h-licence-a-vie-facture-avec-tva.html
 
 👤 Gestion des comptes et accès
 Création d’un compte utilisateur local en plus du compte administrateur.
