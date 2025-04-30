@@ -1,8 +1,24 @@
 # Projet-Création-Infrastructure-Sécurisé-d'Entreprise
 Afin de développe mes compétences en Réseau & Sécurité j'ai décider de créer une infrastructure Réseau complète pour une entreprise fictive afin d'apprendre l'implémentation de toutes les solutions réseau de A à Z
 
-- Tout d'abord on va installer le logiciel EVE-NG Community Edition
-![image](https://github.com/user-attachments/assets/f9b9e933-d1e4-4680-976a-bcab38dd2a64)
+🌐 Installation de EVE-NG Community Edition
+💻 Contexte
+Étant équipé d’un MacBook Air avec puce M4 (architecture ARM), je ne pouvais pas installer EVE-NG localement. J’ai donc opté pour une solution alternative, en installant EVE-NG sur un ordinateur fixe sous Windows, accessible à distance.
+
+🔐 Accès à distance via VPN
+J’ai utilisé Tailscale, un VPN personnel, pour établir une connexion sécurisée entre le PC Windows et mon Mac.
+
+L’objectif était ensuite de me connecter au PC via Remote Desktop (RDP).
+
+Cependant, RDP n’est disponible que sur Windows 11 Pro, alors que le PC tournait sous Windows 11 Famille.
+
+J’ai donc acheté une clé d’activation Windows 11 Pro via ce lien.
+
+👤 Gestion des comptes et accès
+Création d’un compte utilisateur local en plus du compte administrateur.
+
+Configuration des machines virtuelles en réseau public pour qu’elles soient accessibles depuis tous les comptes.
+
 
 
   Tout les liens neccessaire à ce projets
