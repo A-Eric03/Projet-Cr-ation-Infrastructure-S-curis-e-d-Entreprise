@@ -17,7 +17,7 @@ J’ai donc acheté une clé d’activation Windows 11 Pro via ce lien : https:/
 👤 Gestion des comptes et accès
 Création d’un compte utilisateur local en plus du compte administrateur.
 
-Configuration des machines virtuelles en réseau public pour qu’elles soient accessibles depuis tous les comptes.
+Configuration des machines virtuelles en  public pour qu’elles soient accessibles depuis tous les comptes.
 
 
 
