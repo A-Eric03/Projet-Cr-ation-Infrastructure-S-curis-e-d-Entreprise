@@ -30,6 +30,7 @@ Configuration des machines virtuelles en  public pour qu’elles soient accessib
   - PfSense (firewall, routage, VPN) : https://www.pfsense.org/download/
   - Kali Linux (tests de sécurité, pentesting) : https://www.kali.org/get-kali/
   - Ubuntu Server (serveur Linux) : https://ubuntu.com/download/server
+  - WINSCP : https://winscp.net/eng/index.php
 
   
 Plan d’action – Projet Réseau d’Entreprise Virtuel
