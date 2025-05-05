@@ -18,7 +18,7 @@ J’ai donc acheté une clé d’activation Windows 11 Pro via ce lien : https:/
 Création d’un compte utilisateur local en plus du compte administrateur.
 
 Configuration des machines virtuelles en  public pour qu’elles soient accessibles depuis tous les comptes.
-
+ Allez dans la racine /opt/unetlab/addons/qemu via WINSCP pour copier les images des OS et /opt/unetlab/addons/iol/bin pour le fichier cisco IOL
 
 
   Tout les liens neccessaire à ce projets
