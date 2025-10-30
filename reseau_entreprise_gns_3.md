@@ -6,7 +6,7 @@ Créer une infrastructure réseau d'entreprise virtuelle sous **GNS3** reproduis
 ---
 
 ## 1. Prérequis Matériels
-- **PC Windows fixe (x86_64)**
+- **PC Windows  (x86_64)**
   - CPU : 4 cœurs minimum
   - RAM : 16 Go (32 Go idéal)
   - Disque : 100 Go libres (SSD conseillé)
@@ -178,7 +178,7 @@ Ce projet permet de prouver vos compétences :
 
 ---
 
-**Auteur :** [Ton Nom]  
+**Auteur :** Eric ANEBAJAGAN 
 **Version :** 1.0  
-**Date :** [à compléter]
+**Date :** 30/10/25
 
