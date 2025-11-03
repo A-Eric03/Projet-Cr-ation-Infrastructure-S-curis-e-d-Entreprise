@@ -11,7 +11,7 @@ Créer une infrastructure réseau d'entreprise virtuelle sous **GNS3** reproduis
   - RAM : 16 Go (32 Go idéal)
   - Disque : 100 Go libres (SSD conseillé)
 - **Connexion Internet** stable
-
+- **Mac** : https://github.com/GNS3/gns3-gui/releases
 ---
 
 ## 2. Logiciels à installer
